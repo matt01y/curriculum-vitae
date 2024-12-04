@@ -1,0 +1,174 @@
+contacts:
+  name: Matthias Seghers
+  title: Software Engineer
+  email: matthias.h.seghers@gmail.com 
+  address: "9800 Deinze, Belgium"
+  location: Belgium
+  linkedin:
+    url: https://www.linkedin.com/in/matthias-seghers-389b44314/
+    displayText: "/matthias-seghers-389b44314"
+  github:
+    url: https://github.com/matt01y
+    displayText: "@matt01y"
+  # website:
+  #   url: https://johndoe.com
+  #   displayText: www.johndoe.com
+
+position: Software Engineer
+
+tagline: Intrigued by computers and all things tech, motivated to find simple solutions to real world problems.
+    I'm turning my hobby into my future profession,
+    while putting my learnings to use in my own little homelab.
+
+jobs:
+  - position: Job Student
+    company:
+      name: InduSoft
+      link: https://www.indusoft.be
+    product:
+      name: ""
+      link: ""
+    description:
+      - As a job student, my role was to design the user interface for a potato machine line in a factory, to give operators and admins the possibility to operate and analyze the machines.
+      - This project was a greenfield project utilizing Ignition Perspective, where I had the opportunity to design and implement the user interface and code architecture from the ground up. This experience allowed me to exercise creativity and innovation in developing a tailored solution that meets user needs.
+    from: "2024 Jul."
+    to: "2024 Aug."
+    tags:
+      - Ignition Perspective
+      - Python
+      - UI Design
+    location: Deinze, Belgium
+    
+  - position: Team Leader (Group project)
+    company:
+      name: Ghent University
+      link: https://www.ugent.be
+    product:
+      name: Delphi
+      link: https://github.com/SELab-2/UGent-2
+    description:
+      - We were tasked to make a submission website for internal use at Ghent University. This was to be done in groups of 8.
+      - Our platform had support for automated testing using docker as runtime for these test. We also provided a simple
+        checker to ensure that file structure was correct and that the needed files where also uploaded.
+      - Group projects are also supported.
+      # TODO: explain further
+      - My role as team leader was to ensure everyone knew what was expected of them at all times, and make sure that
+        everyone was on the same page. Further administrative roles included.
+    from: "2024 Feb."
+    to: "2024 Jun."
+    tags:
+      - Python
+      - React
+      - TypeScript
+      - Communication
+      - People Management
+    location: Ghent, Belgium & Remote
+    
+  - position: Group Project
+    company:
+      name: Ghent University
+      link: https://www.ugent.be
+    product:
+      name: Gigacharge
+      link: https://github.com/matt01y/Selab1-Gigacharge
+    description:
+      - We were tasked to make an android app for university in groups of 4. We decided to make an ev charging queueing app 
+        so that Clients and/or Employees could be notified and charge on-site instead of at home. 
+      - Our system provided enough flexebility in case a user didn't charge when it was their turn, ensuring that the 
+        charging poles were utilized maximally.
+      - We support multi-site options in-app, unifiying the experience between employees at different sites no 
+        matter where they need to be that day.
+    from: "2023 Feb."
+    to: "2023 May."
+    tags:
+      - Kotlin
+      - Android
+      - Firebase
+      - Communication
+    location: Ghent, Belgium & Remote
+    
+   
+
+objective: Seeking to advance my skills and build a strong career with a company that values innovation and creativity.
+
+education:
+  - place:
+      name: Ghent University
+      link: "https://www.ugent.be"
+    degree: "M.Sc."
+    major: Computer Science - B.Sc. obtained in 2024
+    track: Master of Science in de informatica
+    from: "2021"
+    to: "Current"
+    location: Ghent, Belgium
+  - place:
+      name: Erasmusatheneum Deinze
+      link: "https://www.erasmusatheneum.be/"
+    degree: Diploma
+    major: Sciences & Mathematics
+    track: Wetenschappen Wiskunde
+    from: "2015"
+    to: "2021"
+    location: Deinze, Belgium
+  - place:
+      name: Lehigh Valley Academy
+      link: "https://www.lvacademy.org/"
+    degree: ""
+    major: Elementary School
+    track: Elementary School
+    from: "2012"
+    to: "2015"
+    location: Bethlehem, Pennsylvania, USA
+
+technical_expertise:
+  - name: Python
+    level: 5
+  - name: JS/TS
+    level: 5
+  - name: C/C++
+    level: 4
+  - name: Java
+    level: 4
+  - name: Git
+    level: 4
+  - name: GitHub
+    level: 3
+
+skills:
+  - JavaScript
+  - Python
+  - Java
+  - React
+  - Node.js
+  - Linux
+  - Docker
+  - Git
+  - HTML/CSS
+  - SQL
+  - Haskell
+  - Prolog
+  - Rust
+  - Typst
+  - MarkDown
+  - Bash
+  - Tailscale
+
+methodology:
+  - Lean
+  - Kanban
+  - Design Thinking
+  - Pair Programming
+  - Object Oriented
+
+tools:
+  - GitHub
+  - VS Code
+  - IntelliJ IDEA (& other JetBrains IDEs)
+
+achievements:
+  - name: "Multiple finalist Informatica Olympiad of Belgium"
+    description: ""
+    link: ""
+  - name: "Winner Of the 2019 Bebras Competition"
+    description: Bebras is a programming competition.
+    link: "https://web.archive.org/web/20210514001646/https://www.bebras.be/contest/results"

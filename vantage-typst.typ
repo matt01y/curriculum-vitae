@@ -94,7 +94,7 @@
     title: name + "'s CV",
     author: name,
   )
-  set text(9.8pt, font: "PT Sans")
+  set text(9.4pt, font: "Noto Sans")
   set page(
     margin: (x: 1.2cm, y: 1.2cm),
   )
@@ -123,14 +123,28 @@
     it.body
   )
 
-  [= #name]
-  text(12pt, weight: "medium",[#position])
+  grid(
+    columns: (auto, auto),
+    gutter: -100pt,
+    [#box(
+      [#image("linkedin.jpg", width: 43%)],
+      radius: 100%,
+      clip: true
+    )],
+    align(horizon, [#grid(
+      rows: (auto, auto),
+      row-gutter: 10pt,
+      [= #name],
+      [#text(12pt, weight: "medium",[#position])
+    ])])
+  )
+  
+  
 
   v(0pt)
   findMe(links)
   
   tagline
-  
   grid(
     columns: (7fr, 5fr),
     column-gutter: 2em,

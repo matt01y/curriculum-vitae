@@ -13,6 +13,7 @@ contacts:
   # website:
   #   url: https://johndoe.com
   #   displayText: www.johndoe.com
+  phone: "+32470936111"
 
 position: Software Engineer
 
@@ -47,13 +48,12 @@ jobs:
       name: Delphi
       link: https://github.com/SELab-2/UGent-2
     description:
-      - We were tasked to make a submission website for internal use at Ghent University. This was to be done in groups of 8.
-      - Our platform had support for automated testing using docker as runtime for these test. We also provided a simple
+      - We were tasked to make a submission website for internal use at Ghent University, supporting both individual and group projects. This was to be done in groups of eight.
+      - Our platform had support for automated testing using docker as runtime for these tests.
+        We also provided a simple
         checker to ensure that file structure was correct and that the needed files where also uploaded.
-      - Group projects are also supported.
-      # TODO: explain further
       - My role as team leader was to ensure everyone knew what was expected of them at all times, and make sure that
-        everyone was on the same page. Further administrative roles included.
+        everyone was on the same page. I planned & led team meetings and solved group conflicts.
     from: "2024 Feb."
     to: "2024 Jun."
     tags:
@@ -72,11 +72,11 @@ jobs:
       name: Gigacharge
       link: https://github.com/matt01y/Selab1-Gigacharge
     description:
-      - We were tasked to make an android app for university in groups of 4. We decided to make an ev charging queueing app 
-        so that Clients and/or Employees could be notified and charge on-site instead of at home. 
-      - Our system provided enough flexebility in case a user didn't charge when it was their turn, ensuring that the 
-        charging poles were utilized maximally.
-      - We support multi-site options in-app, unifiying the experience between employees at different sites no 
+      - We were tasked to make an android app for university in groups of four. We decided to make an ev charging queueing app 
+        so that clients and/or employees could be notified and charge on-site instead of at home. 
+      - Our system provided enough flexibility in case a user didn't charge when it was their turn, ensuring that the 
+        charging poles were utilized optimally.
+      - We supported multi-site options in-app, unifiying the experience between employees at different sites no 
         matter where they need to be that day.
     from: "2023 Feb."
     to: "2023 May."
@@ -104,14 +104,14 @@ education:
   - place:
       name: Erasmusatheneum Deinze
       link: "https://www.erasmusatheneum.be/"
-    degree: Diploma
+    degree: High school Diploma
     major: Sciences & Mathematics
     track: Wetenschappen Wiskunde
     from: "2015"
     to: "2021"
     location: Deinze, Belgium
   - place:
-      name: Lehigh Valley Academy
+      name: Lehigh Valley Academy (IB school)
       link: "https://www.lvacademy.org/"
     degree: ""
     major: Elementary School
@@ -166,9 +166,10 @@ tools:
   - IntelliJ IDEA (& other JetBrains IDEs)
 
 achievements:
-  - name: "Multiple finalist Informatica Olympiad of Belgium"
+  - name: "Multiple finalist of Belgian Informatics Olympiad"
     description: ""
     link: ""
   - name: "Winner Of the 2019 Bebras Competition"
     description: Bebras is a programming competition.
     link: "https://web.archive.org/web/20210514001646/https://www.bebras.be/contest/results"
+
